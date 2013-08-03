@@ -1,0 +1,12 @@
+{
+  "name": "limited-array",
+  "description": "Create a fixed-length array, whose 'push' method shifts the first value off the front",
+  "version": "0.1.0",
+  "author": "lakmeer (lakmeer.com)",
+  "dependencies": {},
+  "devDependencies": {
+    "LiveScript" : ">=1.0"
+  },
+  "repository": { "type": "git", "url": "http://github.com/lakmeer/node-limited-array.git" },
+  "main": "index.js"
+}
